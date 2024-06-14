@@ -1,4 +1,4 @@
-# wallsi-destroyer
+# Wallsi Destroyer
 Very dangerous Russian virus. DO NOT RUN IT ON YOUR MAIN PC (or if you don't know Russian).</br>
 </br>
 Wallsi is a friend of mine who calls himself an incredible hacker on discord and says he can remove any virus....</br>
