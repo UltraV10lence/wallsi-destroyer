@@ -1,5 +1,5 @@
 # wallsi-destroyer
-Very strong Russian virus. DO NOT RUN IT ON YOUR MAIN PC (or if you don't know Russian).
+Very dangerous Russian virus. DO NOT RUN IT ON YOUR MAIN PC (or if you don't know Russian).
 
 Wallsi is a friend of mine who calls himself an incredible hacker on discord and says he can remove any virus....
 So I made this challenge programm for him.
@@ -7,7 +7,7 @@ I haven't found any way to remove it myself without using a bootable flash drive
 Before launching the programme itself, make sure you run it as administrator and you have access to google translate, because you will need to confirm that you understand the dangers before launching it
 Best of luck with the removal!
 
-Очень сильный русский вирус. НЕ ЗАПУСКАЙТЕ ЕГО НА СВОЁМ ОСНОВНОМ ПК (или если не знаете русский)
+Очень опасный русский вирус. НЕ ЗАПУСКАЙТЕ ЕГО НА СВОЁМ ОСНОВНОМ ПК (или если не знаете русский)
 
 Валлси - мой друг, который называет себя невероятным хакером в дискорде и говорит, что может удалить любой вирус...
 Поэтому я сделал эту программу-испытание для него
